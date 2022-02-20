@@ -1,3 +1,3 @@
-# Haoyun Hong's personal website
+# Chenzi Wang's personal website
 
-Hello, nice to meet you! 😃 Please browse this [website](https://haoyunhong.github.io/HaoyunHong/) to know something about me.
+Hello, nice to meet you! 😃 Please browse this [website](https://chenzi233.github.io/ChenziWang/) to know something about me.
